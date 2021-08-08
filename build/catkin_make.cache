@@ -1,0 +1,2 @@
+ball-chaser-bot/ball_chaser:ball-chaser-bot/my_robot:turtlebot3_machine_learning/turtlebot3_dqn:turtlebot3_machine_learning/turtlebot3_machine_learning:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/piai/turtlebot3_ws/devel -DCMAKE_INSTALL_PREFIX=/home/piai/turtlebot3_ws/install -G Unix Makefiles
